@@ -1,0 +1,55 @@
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+body{
+  width: 100%;
+  height: 100vh;
+  line-height: 2rem;
+}
+img{
+  border-radius: 2rem;
+}
+h1{
+  font-size: 30px;
+}
+h2{
+  font-size: 20px;
+  color:rgb(148, 9, 136);
+
+}
+h3{
+  font-size: 15px;
+  color:rgb(148, 9, 136);
+
+
+}
+p{
+  line-height: 1.5rem;
+}
+.main_page{
+  margin: 2rem;
+}
+.main_heading{
+  font-size: 30px;
+}
+.preparation{
+  background-color: rgba(255, 192, 203, 0.548);
+  padding: 2rem;
+  border-radius: 1rem;
+  margin: 1rem 0rem 1rem 0rem;
+}
+.pre_time{
+  margin-left: rem;
+}
+.preparation_list{
+  margin-left: 2rem;
+  line-height: 2rem;
+}
+.ingrediants_list{
+  margin-left:1rem ;
+}
+.Instructions_list{
+  margin-left: 1rem;
+}
